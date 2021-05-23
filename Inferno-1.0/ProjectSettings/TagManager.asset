@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Camera and pp
+  - Player
+  - tiles
+  - MainCamera
+  - Enemy
+  - secure
+  - PlayerBullet
+  - EnemyBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1203808757
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tiles
+    uniqueID: 1457355437
+    locked: 0
+  - name: decor
+    uniqueID: 2497981177
+    locked: 0
+  - name: player
+    uniqueID: 3134313331
+    locked: 0
+  - name: Particle effect
+    uniqueID: 3821222391
+    locked: 0
+  - name: light
+    uniqueID: 311330553
+    locked: 0
+  - name: Upground
+    uniqueID: 2842366193
+    locked: 0
+  - name: UI
+    uniqueID: 3199675681
+    locked: 0
+  - name: New Layer
+    uniqueID: 2927512655
+    locked: 0
